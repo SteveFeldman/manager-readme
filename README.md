@@ -6,7 +6,7 @@ This readme covers what to expect when working with me. It's an operator's manua
 ## A Quick Intro of Sorts
 I did not have the traditional route of becoming a software engineer, a development manager and eventually a software executive as most folks in the industry. As you can see from my [LinkedIn profile]|(https://www.linkedin.com/in/feldmansteve/), I didn't graduate with a Computer Science degree. It wasn't even a consideration for me back in the day, as CS majors simply weren't as prevelant at my University at the time. I took several CS classes and left school with a cursory understanding of C and C++. I was fortunate enough to find a job as a software engineer without a CS degree. It took a lot of hardwork and endless nights at Barnes and Noble, as well as Border's Books reading every software language book you can imagine. My nights and weekends were filled for 5 years straight as I put myself through my own CS degree.
 
-I was fortunate enough to learn Java right after school at a time when everyone was starting to learn Java. It's like a developer now learning GoLang or other modern languages with less than a few years of existence. I eventually did move forward with a Master's Degree in Systems Engineering.
+I was fortunate enough to learn Java right after school at a time when everyone was starting to learn Java. It's like a developer now learning Go or other modern languages with less than a few years of existence. I eventually did move forward with a Master's Degree in Systems Engineering.
 
 I think it's important to make this the first impression as it tells you a lot about me as a person. I'm a big believer in the human spirit and the will to accomplish anything and everything that you put your mind to!
 
