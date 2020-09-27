@@ -23,6 +23,10 @@ You may ask from time to time why I'm so hyper-focused on recruiting, whether it
 
 Recruiting is only a small part of the job. Once an team member joins our group, we have to make them successful. We put a lot of emphasis on training and orientation. I'm a big believer in taking the time to train team members. It not only makes the new team member more prepared, but it puts the accountability and ownership of readiness on the team member(s) responsible for leading the training and orientation.
 
+In the early years of our journey, we didn't have a lot of funding to recruit. Our growth has really taken off over the last 3 years. In the early days, I had to wear a lot of hats to help out. I wasn't just our VPE, but I was also our first line of support overseeing defects coming in from Zendesk. I often played the role of the Product Owner and helped the team write many of our early stories, as well as ran our backlog grooming efforts. I was on-call for production issues almost every weekend and night. In those early days PagerDuty went off a lot. That might be the reason we moved to VictorOps from some of our early PTSD from nightime incidents in our production environment.
+
+Outside of being your manager and department leader, I want to stress that I'm here for you.
+
 ## How I Approach my Job
 To many I come off very confident in my work and my interactions with my team. Overall, I am very big on delegating and giving my team the resources they need to be independent. My #1 goal as a manager is for team members to be in a position of defining and directing their own work at all times. I ask that all of my teammates strive for professional independence. It's no fun to be an order taker.
 
