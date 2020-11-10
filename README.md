@@ -27,6 +27,39 @@ In the early years of our journey, we didn't have a lot of funding to recruit. O
 
 Outside of being your manager and department leader, I want to stress that I'm here for you.
 
+## Core Values Consistent Through My Career
+My leadership/management career began in 2003 when I arrived at Blackboard. Up until then I was an individual contributor. When I started at Blackboard, I shared three core values with my original team that stuck with me to my current journey at Contrast Security:
+
+* Consistency/Predictability in our Work
+* Transparency and Openness 
+* Craftsmanship, Accountability and Ownership (HashTag Blameless Culture)
+
+### Importance of Consistency and Predictability
+As a child I was fascinated with trains. I wanted to ride cross-country from Washington, DC to California to take in the sights and sounds of the countryside. As a kid I had the chance to go to Union Station in DC, as well as Penn Station and Grand Central Station. What always amazed me about trains was how consistent and predictable they were from a schedule standpoint. If the train said it would arrive at 8:53am, you bet your bottom dollar it was there +/- 1 minute if not at 8:53am. If the schedule said it was leaving at 9:01am, it in fact left at that time.
+
+As engineers, not just software developers, we crave and often seek out that consistency and predictability in our work. We are creatures of habit and routine. Many of us wake up at the same times daily, eat the same breakfast daily and observe the same commuting behaviors. While we enjoy windows of free time to explore and create, we enjoy those brief windows of mundane routine that centers and balances our mood.
+
+I encourage that my teams strive for consistency in their ceremonies, schedule and software release behaviors. The consistency is good for the individual. What happens when the team and the individual are consistent is that it creates predictability for new team members and most importantly for customers. 
+
+One special note is that being consistent and predictable doesn't imply that there is no room for change. In fact, change is inevitable as it's an important part of scaling a team, a product and an organization. Change is something that comes over time as team members adapt to make those changes consistent and predictable. I encourage experimentation when a team wants to introduce change. By experimenting, the team can decide whether the change is right for the team and how to make it part of a consistent approach.
+
+### Importance of Transparency and Openness
+I learned sometime in my high school years about why transparency was important. Maybe it was because I was a teenager and I felt like every adult thought I or my friends were up to no good. I learned early on that if I was open, transparent and honest about what I was doing, it forged a deep and trusting relationship with others.
+
+The Agile movement spoke loudly to me as it relates to transparency and openness. Strong, successful teams use their ceremonies (Standup, Grooming, Close-Out and Retrospectives) to be transparent with each other on the team and their stakeholders. When a team I work with tells me that they don't have very transparent ceremonies, it's a sign to me that they are running a bad meeting and likely their may be rumblings of trust issues. I try to jump in when that happens and give my open and honest feedback about how to make it a better ceremony.
+
+High-performing teams start with a great deal of trust and mutual respect from within the team. Their reputation becomes lore in the organization because they are open and transparent as a universal attribute of the team. I encourage all of my teams to welcome those from outside their team to experience it first hand.
+
+### Importance of Craftsmanship, Accountability and Ownership
+Coming back to the subject of high-performing teams, I am of the mindset that exceptional teams are not the outcome of just exceptional individuals. The highest performing teams share the attributes I describe above. They are consistent, predictable, transparent and open. What makes them special is that they take ownership and accountability in times of failure and toil. The true mark of a team is how they handle adversity. 
+
+At Contrast, everyone on the team has to be on-call for the team. We have different types of on-call responsibilities. We have production on-call. We have support on-call. Regardless, everyone has to take a rotation. The schedule is consistent and universal. Our resources make themselves accessible with an on-call handle in Slack. Many of these resources make use of our paging system (VictorOps).
+
+Accountability and ownership is more than just being on-call. We take tremendous pride in the quality of our work. It's a craftsmanship attitude that we standby what we built. Since all merges are dependent on a Pull Request and a pull request involves 1 or more people, we approach our work as a team sport. That means we take a #blameless perspective as issues are not the result of one person, but rather the decision of multiple people. There's no value in laying blame regardless on the individual or the team. 
+
+I'm a believer in the craftsmanship movement. Engineers who design their code prior to implementing their code, should also determine the testability of their code. We need to be able to determine “What is done?” from a perspective beyond the commit.
+
+
 ## How I Approach my Job
 To many I come off very confident in my work and my interactions with my team. Overall, I am very big on delegating and giving my team the resources they need to be independent. My #1 goal as a manager is for team members to be in a position of defining and directing their own work at all times. I ask that all of my teammates strive for professional independence. It's no fun to be an order taker.
 
