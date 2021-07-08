@@ -1,7 +1,7 @@
 # Hi, I'm Steve
 Thanks for taking time to review my README. I'm taking a short sabbatical after a great 7 year run at Contrast Security. If I don't update this by October of 2021, it means that I've enjoyed the good life of hanging out with my wife, two daughters and puppy too much. Ideally, I will be back into work/professional mode in October and potentially working with one of my readers of this post.
 
-A quick comment on the topic of sabbaticals. I took my first sabbatical for a month in the summer of 2014 between Blackboard and Contrast. It was a glorious 4 weeks filled with shuttling kids to swim practice and camp. My wife and I were able to eat lunch together and have some adventures. As my time was winding down, I remember saying that if I ever had the change to do it again, I should make it longer than a month.
+A quick comment on the topic of sabbaticals. I took my first sabbatical for a month in the summer of 2014 between Blackboard and Contrast. It was a glorious 4 weeks filled with shuttling kids to swim practice and camp. My wife and I were able to eat lunch together and have some adventures. As my time was winding down, I remember saying that if I ever had the chance to do it again, I should make it longer than a month.
 
 ## Back to the Readme
 This readme covers what to expect when working with me. It's an operator's manual of the sorts about how I like to work, my norms and values, as well as some general expectations of what it is like working together. This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
